@@ -5,3 +5,13 @@ Division of labor:
     - Task 2 & 3
 - Sean Tom (st1061)
     - Task 1
+
+Libraries used:
+- pypdf
+- re
+- spaCy
+- csv
+- collections
+- matplotlib.pyplot
+- math
+- json
